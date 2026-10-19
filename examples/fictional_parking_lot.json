@@ -1,0 +1,22 @@
+{
+  "canvas_width": 960,
+  "canvas_height": 740,
+  "title": "PARKING-LOT COLLISION — SKETCH",
+  "area_label": "PARKING AISLE",
+  "parking_spaces": [
+    {"rect": [115, 130, 350, 510]},
+    {"rect": [465, 130, 350, 510]}
+  ],
+  "vehicles": [
+    {"id": "A", "label": "Vehicle A", "state": "Reversing", "front": "top", "rect": [190, 160, 195, 330]},
+    {"id": "B", "label": "Vehicle B", "state": "Parked", "front": "bottom", "rect": [560, 220, 195, 330],
+      "door": {"side": "left", "at": 0.42, "tip": [478, 290], "label": "DOOR OPEN"}}
+  ],
+  "arrows": [
+    {"from": [286, 510], "to": [286, 600], "label": "Reversing"}
+  ],
+  "notes": [
+    "Fictional example; exact locations and door angle are illustrative.",
+    "No inference about fault or whether the door moved."
+  ]
+}
