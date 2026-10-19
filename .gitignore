@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+private/
+raw_evidence/
+*.mp4
+*.mov
+*.heic
+*.jpg
+*.jpeg
+*.pdf
