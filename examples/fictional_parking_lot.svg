@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 740" role="img" aria-label="Schematic collision scene sketch">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#111"/></marker></defs>
+<text x="480.0" y="53" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="bold">PARKING-LOT COLLISION — SKETCH</text>
+<text x="480.0" y="84" text-anchor="middle" font-family="Arial, sans-serif" font-size="17">Not to scale — approximate positions</text>
+<rect x="115.0" y="130.0" width="350.0" height="510.0" fill="none" stroke="#9a9a9a" stroke-width="2"/>
+<rect x="465.0" y="130.0" width="350.0" height="510.0" fill="none" stroke="#9a9a9a" stroke-width="2"/>
+<rect x="190.0" y="160.0" width="195.0" height="330.0" fill="white" stroke="#111" stroke-width="4"/>
+<text x="287.5" y="194.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">FRONT</text>
+<text x="287.5" y="465.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">REAR</text>
+<text x="287.5" y="318.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="41" font-weight="bold">A</text>
+<text x="287.5" y="346.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">Vehicle A</text>
+<text x="287.5" y="373.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16">Reversing</text>
+<rect x="560.0" y="220.0" width="195.0" height="330.0" fill="white" stroke="#111" stroke-width="4"/>
+<text x="657.5" y="525.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">FRONT</text>
+<text x="657.5" y="254.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">REAR</text>
+<text x="657.5" y="378.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="41" font-weight="bold">B</text>
+<text x="657.5" y="406.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">Vehicle B</text>
+<text x="657.5" y="433.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="16">Parked</text>
+<line x1="560.0" y1="358.6" x2="478.0" y2="290.0" stroke="#111" stroke-width="6" stroke-linecap="round"/>
+<text x="478.0" y="274.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="bold">DOOR OPEN</text>
+<line x1="286.0" y1="510.0" x2="286.0" y2="600.0" stroke="#111" stroke-width="5" marker-end="url(#arrowhead)"/>
+<text x="329.0" y="551.0" font-family="Arial, sans-serif" font-size="17">Reversing</text>
+<text x="480.0" y="654" text-anchor="middle" font-family="Arial, sans-serif" font-size="19">PARKING AISLE</text>
+<text x="480.0" y="684" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#333">Fictional example; exact locations and door angle are illustrative.</text>
+<text x="480.0" y="706" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#333">No inference about fault or whether the door moved.</text>
+</svg>
